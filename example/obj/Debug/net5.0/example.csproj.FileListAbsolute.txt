@@ -14,3 +14,19 @@ C:\Users\Dani\Documents\WorkSpaces\Intro a GitHub\example\obj\Debug\net5.0\examp
 C:\Users\Dani\Documents\WorkSpaces\Intro a GitHub\example\obj\Debug\net5.0\ref\example.dll
 C:\Users\Dani\Documents\WorkSpaces\Intro a GitHub\example\obj\Debug\net5.0\example.pdb
 C:\Users\Dani\Documents\WorkSpaces\Intro a GitHub\example\obj\Debug\net5.0\example.genruntimeconfig.cache
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\bin\Debug\net5.0\example.exe
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\bin\Debug\net5.0\example.deps.json
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\bin\Debug\net5.0\example.runtimeconfig.json
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\bin\Debug\net5.0\example.runtimeconfig.dev.json
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\bin\Debug\net5.0\example.dll
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\bin\Debug\net5.0\ref\example.dll
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\bin\Debug\net5.0\example.pdb
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.csprojAssemblyReference.cache
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.AssemblyInfoInputs.cache
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.AssemblyInfo.cs
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.csproj.CoreCompileInputs.cache
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.dll
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\ref\example.dll
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.pdb
+D:\VSCODE\Workspaces\POO\Lab\GuanteletedeC-_POO012021\example\obj\Debug\net5.0\example.genruntimeconfig.cache
