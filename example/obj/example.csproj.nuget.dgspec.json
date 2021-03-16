@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Documents\\WorkSpaces\\Intro a GitHub\\example\\example.csproj": {}
+    "D:\\VSCODE\\Workspaces\\POO\\Lab\\GuanteletedeC-_POO012021\\example\\example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Documents\\WorkSpaces\\Intro a GitHub\\example\\example.csproj": {
+    "D:\\VSCODE\\Workspaces\\POO\\Lab\\GuanteletedeC-_POO012021\\example\\example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Documents\\WorkSpaces\\Intro a GitHub\\example\\example.csproj",
+        "projectUniqueName": "D:\\VSCODE\\Workspaces\\POO\\Lab\\GuanteletedeC-_POO012021\\example\\example.csproj",
         "projectName": "example",
-        "projectPath": "C:\\Users\\Dani\\Documents\\WorkSpaces\\Intro a GitHub\\example\\example.csproj",
-        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Documents\\WorkSpaces\\Intro a GitHub\\example\\obj\\",
+        "projectPath": "D:\\VSCODE\\Workspaces\\POO\\Lab\\GuanteletedeC-_POO012021\\example\\example.csproj",
+        "packagesPath": "C:\\Users\\espid\\.nuget\\packages\\",
+        "outputPath": "D:\\VSCODE\\Workspaces\\POO\\Lab\\GuanteletedeC-_POO012021\\example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\espid\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
