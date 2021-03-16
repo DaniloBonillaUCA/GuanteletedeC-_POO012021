@@ -14,11 +14,11 @@ namespace example
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Resting {a} - {b} equals {RestNumbers(a,b)}");
+            Console.WriteLine($"Multiplying {a} * {b} equals {MultiplyingNumbers(a,b)}");
         }
-        public static int RestNumbers(int a, int b)
+        public static int MultiplyingNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
     
